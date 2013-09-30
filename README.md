@@ -9,6 +9,7 @@ It is  still the beginning and the project need more improvement
 and additions to be something new and completely different, 
 but till  now it is a simple and make-for-fun project for beginners.
 
+I use library from https://github.com/maniacbug/RF24
 
 
 Project Website 
