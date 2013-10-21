@@ -56,7 +56,6 @@ void setup(void)
 
   Serial.begin(57600);
   printf_begin();
-  printf("\n\rRF24/Reciever/\n\r");
 
   //
   // Setup and configure rf radio
